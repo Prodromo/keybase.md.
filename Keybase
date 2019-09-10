@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am prodromo on github.
+  * I am prodromo (https://keybase.io/prodromo) on keybase.
+  * I have a public key ASA8am1d75A21uKEMzR9iCi-x9jOV7Lk0VXyoLXaYiJLQgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203c6a6d5def9036d6e28433347d8828bec7d8ce57b2e4d155f2a0b5da62224b420a",
+      "host": "keybase.io",
+      "kid": "01203c6a6d5def9036d6e28433347d8828bec7d8ce57b2e4d155f2a0b5da62224b420a",
+      "uid": "03166da4c2dac8dab8c28cac6fd11f19",
+      "username": "prodromo"
+    },
+    "merkle_root": {
+      "ctime": 1568107245,
+      "hash": "a0531b6b3ddfa8a07c7e9d0b82f4d903c795cda3e18ca034b3a5c65499d2b5a802391fce952c6b096b7d7764f89aba0a29afbbf061a09dce2f7e702b62e4ef6c",
+      "hash_meta": "9c450aee6405c1b69f9226d382020c80e5d7e196ae1e4e0312679ca6843be16e",
+      "seqno": 6360646
+    },
+    "service": {
+      "entropy": "r7OrnduUQCwcUZJAnoTQZjxW",
+      "name": "github",
+      "username": "prodromo"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568107246,
+  "expire_in": 504576000,
+  "prev": "3f13c63cfa2801ccf47ae614895aa13e10ae25864ee059f76022cca7f15975f2",
+  "seqno": 7,
+  "tag": "signature"
+}
+```
+
+with the key [ASA8am1d75A21uKEMzR9iCi-x9jOV7Lk0VXyoLXaYiJLQgo](https://keybase.io/prodromo), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPGptXe+QNtbihDM0fYgovsfYzley5NFV8qC12mIiS0IKp3BheWxvYWTESpcCB8QgPxPGPPooAcz0euYUiVqhPhCuJYZO4Fn3YCLMp/FZdfLEIPDpDkdALsYF6qnvX5jz7Ju58gz8LvISEell/clxNL7CAgHCo3NpZ8RAs2+JeyMsxJp2RrINV64V6YWmYyaREqvcTEbFX5qqsi0gaKvFlVFv1lOkpHBktxsFUunKTyG9MYKTwjm6/vuuDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMqd4ApySBBXBx4+tNLA/jBFBgnF7D4RNDSyc+JehNKDo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/prodromo
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id prodromo
+```
